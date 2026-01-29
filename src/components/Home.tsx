@@ -131,7 +131,7 @@ export const Home = () => {
                     animate={{
                       boxShadow: [
                         '0 0 20px rgba(212, 191, 70, 0.5)',
-                        '0 0 40px rgba(34, 196, 48, 0.7)',
+                        '0 0 40px rgba(55, 233, 70, 0.7)',
                         '0 0 20px rgba(29, 223, 230, 0.5)',
                       ],
                     }}
