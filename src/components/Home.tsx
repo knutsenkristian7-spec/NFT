@@ -132,7 +132,7 @@ export const Home = () => {
                       boxShadow: [
                         '0 0 20px rgba(236, 208, 45, 0.5)',
                         '0 0 40px rgba(65, 194, 75, 0.7)',
-                        '0 0 20px rgba(79, 63, 223, 0.5)',
+                        '0 0 20px rgba(61, 44, 218, 0.5)',
                       ],
                     }}
                     transition={{ duration: 2, repeat: Infinity }}
