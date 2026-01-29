@@ -130,7 +130,7 @@ export const Home = () => {
                     className="absolute inset-0 rounded-full"
                     animate={{
                       boxShadow: [
-                        '0 0 20px rgba(236, 208, 45, 0.5)',
+                        '0 0 20px rgba(212, 191, 70, 0.5)',
                         '0 0 40px rgba(65, 194, 75, 0.7)',
                         '0 0 20px rgba(46, 197, 202, 0.5)',
                       ],
