@@ -130,9 +130,9 @@ export const Home = () => {
                     className="absolute inset-0 rounded-full"
                     animate={{
                       boxShadow: [
-                        '0 0 20px rgba(168, 85, 247, 0.5)',
-                        '0 0 40px rgba(236, 72, 153, 0.7)',
-                        '0 0 20px rgba(168, 85, 247, 0.5)',
+                        '0 0 20px rgba(230, 201, 38, 0.5)',
+                        '0 0 40px rgba(86, 190, 94, 0.7)',
+                        '0 0 20px rgba(79, 63, 223, 0.5)',
                       ],
                     }}
                     transition={{ duration: 2, repeat: Infinity }}
